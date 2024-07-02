@@ -1,4 +1,5 @@
-# Parte 1 do Desafio
+# Version 3.0
+# Using OOP
 from abc import ABC, abstractmethod, abstractproperty
 from datetime import datetime
 
